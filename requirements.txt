@@ -1,0 +1,6 @@
+google-generativeai==0.3.2
+mcp
+fastmcp
+uvicorn
+db-sqlite3
+python-dotenv>=1.0.1
